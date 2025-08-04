@@ -30,14 +30,16 @@ This is a simple and intuitive To-Do List web application that allows users to m
 
 ## Project Structure
 
+```
 ├── index.html          # Main HTML file
 ├── style.css           # Stylesheet for the application
 ├── index.js            # JavaScript logic for task management
 └── assets/             # Directory for images and icons
-├── assets.svg
-├── notification-svgrepo-com.svg
-├── account-avatar-profile-user-11-svgrepo-com.svg
-└── delete-2-svgrepo-com.svg
+    ├── assets.svg
+    ├── notification-svgrepo-com.svg
+    ├── account-avatar-profile-user-11-svgrepo-com.svg
+    └── delete-2-svgrepo-com.svg
+```
 
 ## Contributing
 
